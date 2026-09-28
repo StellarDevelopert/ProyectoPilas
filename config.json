@@ -1,0 +1,5 @@
+{
+    "backup_dir": "C:/Synthetix/backups",
+    "log_dir": "C:/Synthetix/logs",
+    "api_endpoint": "https://api.openai.com/v1/analyze"
+}
