@@ -1,3 +1,4 @@
+from estructuras import Stack, Queue
 import json
 import requests
 
